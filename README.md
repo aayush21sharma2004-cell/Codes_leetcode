@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
