@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
