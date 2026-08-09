@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
@@ -94,4 +96,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
