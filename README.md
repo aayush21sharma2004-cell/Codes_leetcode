@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
