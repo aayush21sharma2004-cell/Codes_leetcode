@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0088-merge-sorted-array) |
