@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0204-count-primes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aayush21sharma2004-cell/Codes_leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
